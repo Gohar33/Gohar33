@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Gohar 😊
 
-<!--
-**Gohar33/Gohar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer with the knowledge of UX. 
+I like learning new skills and don't afraid to solve problems and overcome challanges. :muscle:
 
-Here are some ideas to get you started:
+Few things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on meal_sharing app :spaghetti:
+- 🌱 I’m currently learning React :electron:
+- 🤔 I’m looking for productive collaborations :handshake:
+- 😄 Pronouns: extravert, curious, teamplayer :raising_hand_woman:
+- ⚡ Fun fact: I can't live without chocolade :chocolate_bar:
+- 📫 How to reach me: goharvardyan@gmail.com or my [LinkedIn](https://www.linkedin.com/in/gohar-vardanyan-5991b0a3/)
+
+
