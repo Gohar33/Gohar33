@@ -8,7 +8,7 @@ Few things about me:
 - 🔭 I’m currently working on meal_sharing app :spaghetti:
 - 🌱 I’m currently learning React :electron:
 - 🤔 I’m looking for productive collaborations :handshake:
-- 😄 Pronouns: extravert, curious, teamplayer :raising_hand_woman:
+- 😄 Pronouns: extrovert, curious, teamplayer :raising_hand_woman:
 - ⚡ Fun fact: I can't live without chocolade :chocolate_bar:
 - 📫 How to reach me: goharvardyan@gmail.com or my [LinkedIn](https://www.linkedin.com/in/gohar-vardanyan-5991b0a3/)
 
