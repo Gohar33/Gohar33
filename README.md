@@ -5,8 +5,8 @@ I like learning new skills and don't afraid to solve problems and overcome chall
 
 Few things about me:
 
-- 🔭 I’m currently working on meal_sharing app :spaghetti:
-- 🌱 I’m currently learning React :electron:
+- 🔭 I’m currently working in a small coding company :spaghetti:
+- 🌱 I’m currently improving my React knowledge :electron:
 - 🤔 I’m looking for productive collaborations :handshake:
 - 😄 Pronouns: extrovert, curious, teamplayer :raising_hand_woman:
 - ⚡ Fun fact: I can't live without chocolade :chocolate_bar:
