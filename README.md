@@ -5,7 +5,7 @@ I like learning new skills and don't afraid to solve problems and overcome chall
 
 Few things about me:
 
-- 🔭 I’m currently working in a small coding company 💻
+- 🔭 I’m currently working in a coding company 💻
 - 🌱 I’m currently improving my React knowledge :electron:
 - 🤔 I’m looking for productive collaborations :handshake:
 - 😄 Pronouns: extrovert, curious, teamplayer :raising_hand_woman:
