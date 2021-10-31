@@ -24,3 +24,15 @@ Few things about me:
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## Visitors:
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Gohar33)
+
+## Followers:
+
+[![Github](https://img.shields.io/github/followers/Gohar33?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+
+## GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gohar33&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohar33&theme=tokyonight)
