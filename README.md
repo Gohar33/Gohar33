@@ -1,6 +1,6 @@
 ### Hi there, I'm Gohar 😊
 
-I'm a Frontend Developer with the knowledge of UX. 
+I'm a Frontend Developer with the knowledge of UX/UI. 
 I like learning new skills and don't afraid to solve problems and overcome challanges. :muscle:
 
 Few things about me:
